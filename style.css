@@ -1,7 +1,7 @@
 body {
-  font-family: "Helvetica";
-  background-color: #B0E0E6;
-  color: #24292f;
+  font-family: "Georgia, serif";
+  background-color: #82d6e1;
+  color: #2a2c2f;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -16,9 +16,9 @@ body {
   color: red;
 }
 .header__avatar {
-  border-radius: 50%;
-  width: 300px;
-  height: 300px;
+  border-radius: 30%;
+  width: 350px;
+  height: 350px;
 }
 
 .header__title {
@@ -29,15 +29,15 @@ body {
 }
 
 .header__subtitle {
-  color: #000000;
-  font-size: 16px;
-  line-height: 1.4;
+  color: #322f2f;
+  font-size: 22px;
+  line-height: 1.5;
   margin: 0;
 }
 
 .header_1 {
   color: #000000;
-  font-size: 14px;
+  font-size: 22px;
   line-height: 1.4;
   margin: 0;
 }
@@ -67,14 +67,14 @@ border-style: solid;
   width: 320px;
   background: rgb(0, 0, 0);
   border: 1px solid rgba(27, 31, 36, 0.15);
-  border-radius: 5px;
+  border-radius: 15px;
   cursor: pointer;
   
   font-size: 14px;
   line-height: 2;
-  font-family: "Helvetica Neue";
+  font-family: "Georgia, serif";
   font-weight: bold;
-  color: #ffffff;
+  color: #4e4242;
   text-decoration: none;
 }
 
